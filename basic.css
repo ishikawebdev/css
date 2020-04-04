@@ -1,0 +1,16 @@
+body{
+background-image: url('marble.jpg');
+background-size:cover;
+font-family: times, cursive,georgia;
+}
+header{
+text-align:center;
+font-family:Times;
+font-style: italic;
+}
+h1,h2{
+color: rgb(183, 110, 121);
+}
+h1{
+	font-size: 300%;
+}
